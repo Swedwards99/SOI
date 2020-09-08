@@ -34,3 +34,5 @@ This was the lightbulb moment. I realized that not only was there an entire fiel
 
 Western Washington University has provided me with not only the knowledge base to understand modern biological problems, but also the experiences that have led me to synthesize my interests. 
 
+% This is the code for coverting to latex using the template I found. 
+% -N --template=soptemplate.tex soi.md --pdf-engine=pdflatex -o soi.pdf
