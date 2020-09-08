@@ -6,7 +6,7 @@ The past four years at Western Washington University have had a massive impact o
 
 ### Experience
 
-In my freshman year, I assisted Geoffrey Mayhew with his thesis in the Miner lab, examining phenotypic plasticity in the hatch timing of Eastern Pacific Nudibranchs. Work was performed both in-lab and in the field, where specimens were collected. While working in the lab I learned techniques for distilling and filtering seawater, collecting egg masses quickly and delicately, as well as obtaining specimens in the field. While this research did involve looking at plasticity, it wasn't until later that I realized I could connect this concept to my own interests. 
+In my freshman year, I assisted Geoffrey Mayhew with his thesis in Benjamin Miner's lab, examining phenotypic plasticity in the hatch timing of Eastern Pacific Nudibranchs. Work was performed both in-lab and in the field, where specimens were collected. While working in the lab I learned techniques for distilling and filtering seawater, collecting egg masses quickly and delicately, as well as obtaining specimens in the field. While this research did involve looking at plasticity, it wasn't until later that I realized I could connect this concept to my own interests. 
 
 
 
