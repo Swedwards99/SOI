@@ -1,6 +1,8 @@
-# Statement of Interest
+---
+bibliography: soibib.bib
+...
 
-### Introduction
+## Introduction
 
 The past *three* years at Western Washington University have had a massive impact on my career and research goals. When I came to WWU I knew I wanted to study "the oceans", but I lacked the knowledge and experience to focus my interest to a manageable field of study. As is the case with most general interests, the more I studied the more I realized just how much I didn't know. However, each year at Western, and each class I took, helped me narrow down my interests and create a more focused, manageable career plan. I have had the opportunity to participate in lab research, and classes that I took in genetics and ecology have cemented my desire to continue my career in the research field. Seminars and independent research have honed my interests in phenotypic plasticity and ecology as it relates to climate change. The result of my experiences and formal education at WWU is a keen interest in using methods in evolutionary biology and genetics to understand organismal adaptations and applying that understanding to ecological problems. 
 
@@ -25,7 +27,7 @@ In my Junior year, I was fortunate to take classes from across the different fie
 
 Over this past summer, while researching plasticity in arctic organisms, I came across a paper entitled *Eco-Evo-Devo: the Time has Come*. The paper, published in 2014, described the emerging methods and modern synthesis of these three fields. 
 
-> "Combining the approaches of eco-evo-devo and ecological genomics will mutually enrich these fields in a way that will not only enhance our understanding of evolution, but also of the genetic mechanisms underlying the responses of organisms to their natural environments." 
+> "Combining the approaches of eco-evo-devo and ecological genomics will mutually enrich these fields in a way that will not only enhance our understanding of evolution, but also of the genetic mechanisms underlying the responses of organisms to their natural environments" [@abouheif2014eco].
 
 This was the light bulb moment. I realized that not only was there an entire field that was incorporating the concepts that I had wanted to combine, but also, the field was extremely new, and thus presented many new questions that have yet to be answered. This new field, formally known as ecological evolutionary developmental biology (abbreviated eco-evo-devo) allows us to apply principles from late 20th and early 21st century evolutionary developmental biology to current ecology. For instance, by analyzing the role that genetics and developmental plasticity combined play in evolution, we can predict the response of organisms/communities to global environmental change. In particular, I want to understand how polar organisms can potentially adapt to cope with the effects of climate change, as well as how we can predict which species will thrive in Arctic and Antarctic climates, and which could potentially lose out. The poles are of particular interest as not only the epicenter for global climate change, but as they have emerged relatively recently, adaptations in these ecosystems are newer and potentially more resilient to change. Conversely, the relative lack of diversity could be a detriment to any adaptations that might arise due to poor gene flow. Understanding these contrasting forces, as well as the adaptations of organisms that have risen in the past (and currently), and predicting their response to climate change will allow for intelligent methods for conservation and policy recommendations. 
 
@@ -33,5 +35,9 @@ This was the light bulb moment. I realized that not only was there an entire fie
 
 ### Concluding Remarks
 
-Western Washington University has provided me with not only the knowledge base to understand modern biological problems, but also the experiences that have led me to synthesize my interests. 
+Western Washington University has provided me with not only the knowledge base to understand modern biological problems, but also the experiences that have led me to synthesize my interests. Research experience taught me that I was very passionate about lab work, and the classes I took gave me background knowledge I needed to ask questions that could be researched. Ecology, Genetics, Evolutionary Biology, and Algal Ecology have all crafted my interest in broad fields within biology, and my own personal research has helped me to discover a novel field in which to combine my interests and carry out research. 
 
+
+<!--- This is the pandoc code for converting to latex using the template I found. 
+ -N --template=soptemplate.tex soi.md --pdf-engine=pdflatex -o soi.pdf 
+ the template is in desktop --->
